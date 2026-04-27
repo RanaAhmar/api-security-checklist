@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/api-security-checklist?style=for-the-badge)](https://github.com/RanaAhmar/api-security-checklist/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/api-security-checklist?style=for-the-badge)](https://github.com/RanaAhmar/api-security-checklist/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/api-security-checklist/blob/main/LICENSE)
+
 # 🔐 API Security Checklist
 
 Don't let your API be the weak link. A comprehensive guide to securing REST and GraphQL endpoints. Curated by **Ahmar Hussain** (**Stackaura**).
@@ -39,6 +41,18 @@ If you found this tool useful, check out our other high-performance web utilitie
 
 
 
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
 
 
 ---
